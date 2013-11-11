@@ -11,7 +11,7 @@ In this repository you can find:
 
 # Contributor guidelines
 
-- PRs are welcome in another file (example: dna_ideal.json)
+- PRs are welcome in dna_ideal.txt
 - The original SNP files should always be available
 - Do not send in PRs that add shitty things like immune disorders to my DNA
 
