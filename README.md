@@ -3,7 +3,7 @@
 In this repository you can find:
 
 - a text file with the raw SNP dump from 23andme
-- a JSON file with the processed SNP dump for [genome.js](https://github.com/genomejs)
+- a text file with the beginnings of "the ideal" dna
 
 # Usage guidelines
 
